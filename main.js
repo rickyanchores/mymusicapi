@@ -20,9 +20,11 @@ async function renderMusic(){
     music.forEach( track => {
         
         let htmlSegment = `<div class="track">
+                    <img class="images" src="${track.image}"/>
                     <h1 class="title">${track.title}</h1>
-                    <h1 class="title">${track.artist}</h1>
-                    <h1 class="title">${track.genre}</h1>
+                    <h3 class="title">${track.artist}</h3>
+                    <h3 class="title">${track.genre}</h3>
+                    <a href=${track.video} target="_blank" rel="noopener noreferrer">Watch</a>
         </div>`
 
         html += htmlSegment

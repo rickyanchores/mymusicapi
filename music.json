@@ -1,12 +1,16 @@
 [
     {
+        "image": "/images/fujikaze.jpeg",
         "title": "Shinuno ga e-wa",
         "artist": "Fujii Kaze",
-        "genre": "Rnb/JPOP"
+        "genre": "Rnb/JPOP",
+        "video": "https://www.youtube.com/watch?v=lRVJuPI5IXI"
     },
     {
-        "title": "Binibini",
-        "artist": "Zack Tabudlo",
-        "genre": "Rnb/OPM"
+        "image": "/images/cro.jpeg",
+        "title": "Melodie",
+        "artist": "Cro",
+        "genre": "Rnb/Rap",
+        "video": "https://www.youtube.com/watch?v=N8Oj6PBiWyg"
     }
 ]

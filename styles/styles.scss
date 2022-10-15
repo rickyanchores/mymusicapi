@@ -1,11 +1,17 @@
 body{
-    background: #333;
+    background: darkslategrey;
     color: whitesmoke;
 }
 
 .music-section{
     .track{
-        border: 2px solid red;
+        border: 2px solid white;
+        width: 300px;
         margin: 1em;
+        padding: 1em;
+        img{
+            width: 100%;
+        }
     }
+
 }
