@@ -12,5 +12,12 @@
         "artist": "Cro",
         "genre": "Rnb/Rap",
         "video": "https://www.youtube.com/watch?v=N8Oj6PBiWyg"
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/esq040122wil-001-1651088387.jpg",
+        "title": "Too Good For Giving Up",
+        "artist": "Liam Gallagher",
+        "genre": "Rock",
+        "video": "https://www.youtube.com/watch?v=Ud0fBhTW7YM"
     }
 ]
