@@ -13,11 +13,12 @@
         "genre": "Rnb/Rap",
         "video": "https://www.youtube.com/watch?v=N8Oj6PBiWyg"
     },
+
     {
-        "image": "https://hips.hearstapps.com/hmg-prod/images/esq040122wil-001-1651088387.jpg",
-        "title": "Too Good For Giving Up",
-        "artist": "Liam Gallagher",
-        "genre": "Rock",
-        "video": "https://www.youtube.com/watch?v=Ud0fBhTW7YM"
+        "image": "https://media.gq-magazine.co.uk/photos/5e442958995fbc00086126ad/4:3/w_1704,h_1278,c_limit/20191219-BTS-04.jpg",
+        "title": "MIC DROP",
+        "artist": "BTS",
+        "genre": "POP",
+        "video": "https://www.youtube.com/watch?v=kTlv5_Bs8aw"
     }
 ]

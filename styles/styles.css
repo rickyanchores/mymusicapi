@@ -1,16 +1,18 @@
 body {
-  background: darkslategrey;
+  background: rgba(0, 0, 0, 0.906);
   color: whitesmoke;
 }
 
 .music-section .track {
   border: 2px solid white;
   width: 300px;
+  border-radius: 12px;
   margin: 1em;
   padding: 1em;
 }
 
 .music-section .track img {
   width: 100%;
+  border-radius: 12px;
 }
 /*# sourceMappingURL=styles.css.map */

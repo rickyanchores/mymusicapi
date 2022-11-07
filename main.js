@@ -24,7 +24,7 @@ async function renderMusic(){
                     <h1 class="title">${track.title}</h1>
                     <h3 class="title">${track.artist}</h3>
                     <h3 class="title">${track.genre}</h3>
-                    <a href=${track.video} target="_blank" rel="noopener noreferrer">Watch</a>
+                    <a href=${track.video} target="_blank" rel="noopener noreferrer">YouTube</a>
         </div>`
 
         html += htmlSegment
